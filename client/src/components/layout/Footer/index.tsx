@@ -91,10 +91,10 @@ const Footer = () => {
             Created by{" "}
             <Link
               className="italic transition-all duration-200 hover:text-primary"
-              to="https://github.com/ahmedsemih"
+              to="https://github.com/ishansharma9525"
               target="_blank"
             >
-              Ahmed Semih Erkan
+              Ishan sharma
             </Link>
           </p>
         </div>
