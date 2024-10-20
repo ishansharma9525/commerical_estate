@@ -6,7 +6,7 @@ Your README file is well-structured and informative! Here’s a corrected and po
 
 Estate Hub is a MERN stack real estate application. In this app, users can create accounts, view listings, filter or search for listings, and add them to their favorites. Additionally, users can create listings to sell or rent their properties.
 
-**Live demo:** [Estate Hub Live Demo](https://estate-hub-ase.vercel.app/)
+
 
 ## :bulb: Features
 
@@ -34,18 +34,14 @@ Estate Hub is a MERN stack real estate application. In this app, users can creat
 - [Bcrypt](https://www.npmjs.com/package/bcryptjs) - Password Encryption
 - [Cloudinary](https://www.cloudinary.com/) - Image Storage
 
-## :camera_flash: Screenshots
 
-![Estate Hub Home](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/a64cdbd4-7faa-4ae7-8f28-e60643387120)
-![Estate Hub Search](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/314ae60b-d111-4d27-b088-db5d60f3e83c)
-![Estate Hub Listing](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/0ca1cc43-9a72-48af-a77d-294a746e89b2)
 
 ## :triangular_flag_on_post: Getting Started
 
 To get started, clone the repository and install the dependencies for both the server and client:
 
 ```shell
-git clone https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App.git
+git clone https://github.com/ishansharma9525/MERN-Stack-Real-Estate-App.git
 
 cd client
 npm install
